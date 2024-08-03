@@ -1,0 +1,1659 @@
+{
+    "status": true,
+    "data": {
+        "assessment": {
+            "properties": {
+                "municipality": "Surrey",
+                "jur": "326",
+                "pid": "030-218-586",
+                "folio": "2351-99216-7",
+                "lot": "76",
+                "plan": "EPS4403",
+                "unit": "811",
+                "house": "13696",
+                "street": "100 Ave",
+                "postal_code": "",
+                "address": "811-13696 100 ave"
+            },
+            "history": [
+                {
+                    "year": 2023,
+                    "total": "$447,000",
+                    "total_int": 447000,
+                    "land": "$274,000",
+                    "land_int": 274000,
+                    "building": "$173,000",
+                    "building_int": 173000,
+                    "tax": "-",
+                    "expand_button": 1,
+                    "value_change": 21
+                },
+                {
+                    "year": 2022,
+                    "total": "$370,000",
+                    "total_int": 370000,
+                    "land": "$199,000",
+                    "land_int": 199000,
+                    "building": "$171,000",
+                    "building_int": 171000,
+                    "tax": "-",
+                    "expand_button": 1,
+                    "value_change": 21
+                },
+                {
+                    "year": 2021,
+                    "total": "$307,000",
+                    "total_int": 307000,
+                    "land": "$165,000",
+                    "land_int": 165000,
+                    "building": "$142,000",
+                    "building_int": 142000,
+                    "tax": "-",
+                    "expand_button": 1,
+                    "value_change": 2
+                },
+                {
+                    "year": 2020,
+                    "total": "$301,000",
+                    "total_int": 301000,
+                    "land": "$162,000",
+                    "land_int": 162000,
+                    "building": "$139,000",
+                    "building_int": 139000,
+                    "tax": "-",
+                    "expand_button": 1,
+                    "value_change": -5
+                },
+                {
+                    "year": 2019,
+                    "total": "$316,000",
+                    "total_int": 316000,
+                    "land": "$178,000",
+                    "land_int": 178000,
+                    "building": "$138,000",
+                    "building_int": 138000,
+                    "tax": "-",
+                    "expand_button": 1,
+                    "value_change": 6
+                },
+                {
+                    "year": 2018,
+                    "total": "$298,000",
+                    "total_int": 298000,
+                    "land": "$166,000",
+                    "land_int": 166000,
+                    "building": "$132,000",
+                    "building_int": 132000,
+                    "tax": "-",
+                    "expand_button": 1,
+                    "value_change": null
+                }
+            ],
+            "match_type": "pid",
+            "ratio_message": "",
+            "chart_type": "building_land"
+        },
+        "listing_price_change": [],
+        "touring_activities": [],
+        "picture": {
+            "photo_url": "https://cache-w10.housesigma.com/file/pix-rebgv/262923070/794ff_1.jpg?619674a9",
+            "photo_list": [
+                "https://cache-w10.housesigma.com/file/pix-rebgv/262923070/794ff_1.jpg?619674a9",
+                "https://cache-w11.housesigma.com/file/pix-rebgv/262923070/794ff_2.jpg?619674a9",
+                "https://cache-w12.housesigma.com/file/pix-rebgv/262923070/794ff_3.jpg?619674a9",
+                "https://cache-w13.housesigma.com/file/pix-rebgv/262923070/794ff_4.jpg?619674a9",
+                "https://cache-w10.housesigma.com/file/pix-rebgv/262923070/794ff_5.jpg?619674a9",
+                "https://cache-w11.housesigma.com/file/pix-rebgv/262923070/794ff_6.jpg?619674a9",
+                "https://cache-w12.housesigma.com/file/pix-rebgv/262923070/794ff_7.jpg?619674a9",
+                "https://cache-w13.housesigma.com/file/pix-rebgv/262923070/794ff_8.jpg?619674a9",
+                "https://cache-w10.housesigma.com/file/pix-rebgv/262923070/794ff_9.jpg?619674a9",
+                "https://cache-w11.housesigma.com/file/pix-rebgv/262923070/794ff_10.jpg?619674a9",
+                "https://cache-w12.housesigma.com/file/pix-rebgv/262923070/794ff_11.jpg?619674a9",
+                "https://cache-w13.housesigma.com/file/pix-rebgv/262923070/794ff_12.jpg?619674a9",
+                "https://cache-w10.housesigma.com/file/pix-rebgv/262923070/794ff_13.jpg?619674a9",
+                "https://cache-w11.housesigma.com/file/pix-rebgv/262923070/794ff_14.jpg?619674a9",
+                "https://cache-w12.housesigma.com/file/pix-rebgv/262923070/794ff_15.jpg?619674a9",
+                "https://cache-w13.housesigma.com/file/pix-rebgv/262923070/794ff_16.jpg?619674a9",
+                "https://cache-w10.housesigma.com/file/pix-rebgv/262923070/794ff_17.jpg?619674a9",
+                "https://cache-w11.housesigma.com/file/pix-rebgv/262923070/794ff_18.jpg?619674a9",
+                "https://cache-w12.housesigma.com/file/pix-rebgv/262923070/794ff_19.jpg?619674a9"
+            ]
+        },
+        "house": {
+            "id_listing": "XeEn7X4gQbv7rPo8",
+            "id_address": "jJKdOYrjbGnY54lW",
+            "seo_municipality": "surrey-real-estate",
+            "seo_address": "811-13696-100-avenue",
+            "ml_num": "R2901443",
+            "ml_num_merge": "R2901443",
+            "hash_id": "5Zv7A49SO5p8yV8z",
+            "seo_suffix": "13696-100-AVENUE-811-Surrey-V3T0L5-R2901443",
+            "house_type_name": "Apartment/Condo",
+            "house_type": "C.",
+            "address": "Unit 811 - 13696 100 AVENUE",
+            "address_seo": "811 - 13696 100 AVENUE",
+            "address_navigation": "13696 100 AVENUE, Surrey, ",
+            "list_status": {
+                "public": 1,
+                "live": 0,
+                "flg_idx": 1,
+                "sold": 1,
+                "s_r": "Sale",
+                "text": "Sold",
+                "status": "SLD",
+                "feature": null,
+                "precon": null,
+                "agent_available": true,
+                "premium": 1,
+                "archive": 0,
+                "watched": 0,
+                "watched_text": "Watch",
+                "community_watched": 0,
+                "community_watch_types": []
+            },
+            "list_dates": {
+                "date_added": "2024-07-03",
+                "date_added_days": 30,
+                "date_start": "2024-07-03",
+                "date_start_days": 30,
+                "date_start_month": 0,
+                "date_update": "2024-08-01",
+                "date_end": "2024-07-22",
+                "date_end_days": 11,
+                "date_list_days": 19,
+                "date_sold_report": "2024-08-01 00:00:00"
+            },
+            "id_community": 13278,
+            "id_municipality": 10505,
+            "community_name": "Whalley",
+            "municipality_name": "Surrey",
+            "municipality_area": "Greater Vancouver",
+            "country": "CA",
+            "province": "BC",
+            "province_name": "British Columbia",
+            "cross_street": "",
+            "bedroom": 1,
+            "bedroom_plus": 0,
+            "bedroom_string": 1,
+            "washroom": 1,
+            "parking": {
+                "total": 1,
+                "garage_type": "Covered",
+                "garage": 1,
+                "parking_type": "Total",
+                "parking": 1,
+                "text": "Covered 1 parking"
+            },
+            "price": "449,000",
+            "price_int": 449000,
+            "price_abbr": "0.45M",
+            "price_sold": "430,000",
+            "price_sold_int": 430000,
+            "price_origin": null,
+            "price_tag": null,
+            "map": {
+                "lat": 49.18405,
+                "lon": -122.8426
+            },
+            "tax_int": 1810,
+            "maintenance_int": 294,
+            "brokerage": "Regent Park Realty Inc.",
+            "text": {
+                "list_date_short": "Sold 2024-07-22",
+                "list_date_long": "Sold 2024-07-22, Dom: 19 days",
+                "dom_short": "Sold 11 days ago (reported 1 day ago)",
+                "dom_short_v2": "11 days ago",
+                "dom_long": "Sold 11 days ago, Dom: 19 days",
+                "rooms_short": "1 bd 1 ba 1 gr",
+                "rooms_long": "1 Bedroom, 1 Bathroom, 1 Garage",
+                "status_chg_date": "20 hours ago",
+                "hs_exclusive_tag": null
+            },
+            "house_area": {
+                "area": "448",
+                "area_note": null,
+                "unit": "feet²",
+                "estimate": 448
+            },
+            "land": null,
+            "open_house_date": [],
+            "tos_source": "REBGV",
+            "data_source_raw": "REBGV",
+            "data_source_text": "",
+            "copyright_text": {
+                "copyright": "<p>Copyright: © 2022 HouseSigma Inc. All rights reserved. HouseSigma Inc. is a registered real estate brokerage in the Province of British Columbia.</p><p>NOTE: This representation is based in whole or in part on data generated by the Chilliwack & District Real Estate Board, Fraser Valley Real Estate Board or Real Estate Board of Greater Vancouver which assume no responsibility for its accuracy.</p>",
+                "housesigmaInc": "HouseSigma Inc. Brokerage",
+                "disclaimer_img": null,
+                "disclaimer_url": null
+            },
+            "agent_user": {
+                "id": 1,
+                "name": "System API",
+                "phone": "2894695060",
+                "picture": "",
+                "created": "2018-06-29 13:58:10"
+            },
+            "bind_agent_user": null,
+            "contact_message": "I'd like to buy/sell something similar to: [R2901443], Unit 811 - 13696 100 AVENUE, Surrey",
+            "postal_code": "V3T0L5",
+            "postal_code_seo": "V3T0L5",
+            "pending_review_text": null,
+            "list_agent_name": null,
+            "brokerage_text": null,
+            "schedule_message": "I want to book an appointment to view: [R2901443], Unit 811 - 13696 100 AVENUE, Surrey",
+            "direct_contact_message": "I want to know more about your toured listing: [R2901443], Unit 811 - 13696 100 AVENUE, Surrey",
+            "direct_contact_trreb_questionnaire_message": ""
+        },
+        "key_facts": {
+            "tax": "1,810 / 2023",
+            "house_type_name": "Apartment/Condo",
+            "house_style": "Inside Unit",
+            "build_year": "2017",
+            "size_with_area_note": null,
+            "size_without_area_note": "448 feet²",
+            "lot_size": null,
+            "irregular": null,
+            "maintenance": "$294/month",
+            "level": "1",
+            "locker": null,
+            "condo_exposure": null,
+            "included_utility": "water",
+            "parking": "Covered 1 parking",
+            "basement": "",
+            "ml_num_merge": "R2901443",
+            "data_source": "REBGV",
+            "days_on_site_or_market": {
+                "name": "Days on Market",
+                "value": "19 days"
+            },
+            "listed_on": {
+                "name": "Listed on",
+                "value": "2024-07-03"
+            },
+            "updated_on": "2024-08-01",
+            "description1": "Amazing unit at Park Avenue West built by Concord Pacific. 1 bedroom with functional layout. Open concept kitchen with gas cooktop, quartz countertop and S/S appliances. Good sized balcony with beautiful city view. The unit comes with 1 x parking + 1 storage locker. Resort-style amenities include concierge, gym, outdoor swimming pool, hot-tub, steam/sauna, playground and rooftop sky lounge. Located in the middle of vibrant City of Surrey. Mins walk to skytrain station, bus stops, restaurants, shopping stores, SFU campus, library, city hall, and more. Come and see!. ",
+            "description2": "",
+            "status_chg_date": "20 hours ago",
+            "coop_commission": "3.22% ON THE 1ST $100,000 AND 1.15% ON THE BALANCE."
+        },
+        "key_facts_v2": {
+            "tax": {
+                "name": "Tax",
+                "value": "$1,810 / 2023",
+                "public": 1
+            },
+            "property_type": {
+                "name": "Property Type",
+                "value": "Apartment/Condo, Inside Unit",
+                "public": 1
+            },
+            "maintenance": {
+                "name": "Maintenance",
+                "value": "$294/month",
+                "public": 1
+            },
+            "included_utility": {
+                "name": "Included Utility",
+                "value": "water",
+                "public": 1
+            },
+            "build_year": {
+                "name": "Year Built",
+                "value": "2017",
+                "public": 1
+            },
+            "size_without_area_note": {
+                "name": "Size",
+                "value": "448 feet²",
+                "public": 1
+            },
+            "size_with_area_note": {
+                "name": "Size",
+                "value": null,
+                "public": 1
+            },
+            "lot_size": {
+                "name": "Lot Size",
+                "value": null,
+                "public": 1
+            },
+            "locker": {
+                "name": "Locker",
+                "value": "Yes",
+                "public": 1
+            },
+            "irregular": {
+                "name": "Lot Irregularities",
+                "value": null,
+                "public": 1
+            },
+            "condo_exposure": {
+                "name": "Exposure",
+                "value": null,
+                "public": 1
+            },
+            "parking": {
+                "name": "Parking",
+                "value": "Covered 1 parking",
+                "public": 1
+            },
+            "basement": {
+                "name": "Basement",
+                "value": "",
+                "public": 1
+            },
+            "coop_commission": {
+                "name": "Coop Commission",
+                "value": "3.22% ON THE 1ST $100,000 AND 1.15% ON THE BALANCE.",
+                "public": 1
+            },
+            "ml_num_merge": {
+                "name": "Listing #",
+                "value": "R2901443",
+                "public": 1
+            },
+            "data_source": {
+                "name": "Data Source",
+                "value": "REBGV",
+                "public": 1
+            },
+            "days_on_site_or_market": {
+                "name": "Days on Market",
+                "value": "19 days",
+                "public": 1
+            },
+            "status_chg_date": {
+                "name": "Status Change",
+                "value": "20 hours ago",
+                "public": 1
+            },
+            "listed_on": {
+                "name": "Listed on",
+                "value": "2024-07-03",
+                "public": 1
+            },
+            "updated_on": {
+                "name": "Updated on",
+                "value": "2024-08-01",
+                "public": 1
+            },
+            "description1": {
+                "name": "Description",
+                "value": "Amazing unit at Park Avenue West built by Concord Pacific. 1 bedroom with functional layout. Open concept kitchen with gas cooktop, quartz countertop and S/S appliances. Good sized balcony with beautiful city view. The unit comes with 1 x parking + 1 storage locker. Resort-style amenities include concierge, gym, outdoor swimming pool, hot-tub, steam/sauna, playground and rooftop sky lounge. Located in the middle of vibrant City of Surrey. Mins walk to skytrain station, bus stops, restaurants, shopping stores, SFU campus, library, city hall, and more. Come and see!. ",
+                "public": 1
+            },
+            "description2": {
+                "name": "Description",
+                "value": "",
+                "public": 1
+            },
+            "summary": {
+                "name": "Summary",
+                "value": [
+                    "1 bedroom unit at Park Avenue West by Concord Pacific.",
+                    "Functional layout with open concept kitchen.",
+                    "Features gas cooktop, quartz countertop, and S/S appliances.",
+                    "Good sized balcony with beautiful city view.",
+                    "Includes 1 parking spot and 1 storage locker.",
+                    "Resort-style amenities such as concierge, gym, pool, hot-tub, sauna, playground, and rooftop sky lounge.",
+                    "Located in vibrant City of Surrey, close to skytrain, bus stops, restaurants, shopping, SFU campus, library, and city hall."
+                ],
+                "public": 1
+            },
+            "project_name": {
+                "name": "Project Name",
+                "value": null,
+                "public": 1
+            },
+            "builders": {
+                "name": "Builder(s)",
+                "value": null,
+                "public": 1
+            },
+            "occupancy_date": {
+                "name": "Occupancy Date",
+                "value": null,
+                "public": 1
+            },
+            "aggregated_dom": {
+                "name": "Property Days on Market",
+                "value": "19 days",
+                "public": 1
+            }
+        },
+        "school": [
+            {
+                "v3": 1,
+                "distance": 2220,
+                "programs": [
+                    "English",
+                    "8-12"
+                ],
+                "id_school": 3634,
+                "display_score": 1,
+                "id": 3634,
+                "name": "Guildford Park Secondary",
+                "board": "Surrey School District",
+                "address": "10707 146 St",
+                "phone": "604 588-7601",
+                "eqao_json": null,
+                "city": "Surrey",
+                "region": "British Columbia",
+                "web": "https://www.surreyschools.ca/schools/guildfordpark",
+                "geo_latitude": 49.196956518396,
+                "geo_longitude": -122.8192959,
+                "school_type": "Secondary",
+                "board_type": "Public",
+                "score": 2.8,
+                "score_year": 2019,
+                "score_average": null,
+                "rank": 224,
+                "rank_total": 251,
+                "rank_year": 2019,
+                "score_json": {
+                    "rank_2015": 182,
+                    "rank_2016": 209,
+                    "rank_2017": 183,
+                    "rank_2018": 191,
+                    "rank_2019": 224,
+                    "rank_score_2015": 3.37,
+                    "rank_score_2016": 2.51,
+                    "rank_score_2017": 3.22,
+                    "rank_score_2018": 2.87,
+                    "rank_score_2019": 1.97,
+                    "rank_total_2015": 247,
+                    "rank_total_2016": 251,
+                    "rank_total_2017": 243,
+                    "rank_total_2018": 241,
+                    "rank_total_2019": 251,
+                    "average_exam_mark_2015": 66.1,
+                    "average_exam_mark_2016": 64.2,
+                    "average_exam_mark_2017": 64.6,
+                    "average_exam_mark_2018": 66.2,
+                    "average_exam_mark_2019": 64.4
+                },
+                "geo_json": [
+                    [
+                        [
+                            49.2170876501,
+                            -122.817750947608
+                        ],
+                        [
+                            49.2165830700806,
+                            -122.81169988407
+                        ],
+                        [
+                            49.2139479574019,
+                            -122.810498254431
+                        ],
+                        [
+                            49.2118734081701,
+                            -122.809446828497
+                        ],
+                        [
+                            49.2082567560687,
+                            -122.804940717352
+                        ],
+                        [
+                            49.2015273969845,
+                            -122.79833175434
+                        ],
+                        [
+                            49.2000692484746,
+                            -122.798632161749
+                        ],
+                        [
+                            49.1967041262896,
+                            -122.800777928961
+                        ],
+                        [
+                            49.1936192298191,
+                            -122.800777928961
+                        ],
+                        [
+                            49.1887881758757,
+                            -122.80092716217
+                        ],
+                        [
+                            49.1889073802706,
+                            -122.809242980612
+                        ],
+                        [
+                            49.1886689711935,
+                            -122.809280531538
+                        ],
+                        [
+                            49.1886549470943,
+                            -122.811898367537
+                        ],
+                        [
+                            49.1869439771741,
+                            -122.811989562643
+                        ],
+                        [
+                            49.1831571940321,
+                            -122.812150495184
+                        ],
+                        [
+                            49.1780235364321,
+                            -122.812236325873
+                        ],
+                        [
+                            49.1703220515441,
+                            -122.812289970053
+                        ],
+                        [
+                            49.172594745474,
+                            -122.818362491263
+                        ],
+                        [
+                            49.1744324648873,
+                            -122.823169009818
+                        ],
+                        [
+                            49.1778972922418,
+                            -122.832191960944
+                        ],
+                        [
+                            49.1803940619909,
+                            -122.838243024481
+                        ],
+                        [
+                            49.1807306954669,
+                            -122.839830892218
+                        ],
+                        [
+                            49.1808148534781,
+                            -122.841418759955
+                        ],
+                        [
+                            49.1840969042898,
+                            -122.843178289069
+                        ],
+                        [
+                            49.1842371580217,
+                            -122.845452802313
+                        ],
+                        [
+                            49.1915858974103,
+                            -122.845195310248
+                        ],
+                        [
+                            49.1914456645083,
+                            -122.83408023609
+                        ],
+                        [
+                            49.1957366112863,
+                            -122.834155337943
+                        ],
+                        [
+                            49.1988073544862,
+                            -122.834112422598
+                        ],
+                        [
+                            49.2017517237086,
+                            -122.834090964926
+                        ],
+                        [
+                            49.2024947987141,
+                            -122.834284083975
+                        ],
+                        [
+                            49.2024527381628,
+                            -122.829305904044
+                        ],
+                        [
+                            49.2024527381628,
+                            -122.823126094473
+                        ],
+                        [
+                            49.203223842585,
+                            -122.821752803458
+                        ],
+                        [
+                            49.204948268962,
+                            -122.819478290213
+                        ],
+                        [
+                            49.2090137516571,
+                            -122.818748729361
+                        ],
+                        [
+                            49.2099109166051,
+                            -122.81894184841
+                        ],
+                        [
+                            49.2122518797253,
+                            -122.818362491263
+                        ],
+                        [
+                            49.2138077878991,
+                            -122.816860454214
+                        ],
+                        [
+                            49.2163728268856,
+                            -122.817590015067
+                        ],
+                        [
+                            49.2170876501,
+                            -122.817750947608
+                        ]
+                    ]
+                ],
+                "geo_json_v2": {
+                    "type": "MultiPolygon",
+                    "coordinates": [
+                        [
+                            [
+                                [
+                                    -122.817750947608,
+                                    49.2170876501
+                                ],
+                                [
+                                    -122.81169988407,
+                                    49.2165830700806
+                                ],
+                                [
+                                    -122.810498254431,
+                                    49.2139479574019
+                                ],
+                                [
+                                    -122.809446828497,
+                                    49.2118734081701
+                                ],
+                                [
+                                    -122.804940717352,
+                                    49.2082567560687
+                                ],
+                                [
+                                    -122.79833175434,
+                                    49.2015273969845
+                                ],
+                                [
+                                    -122.798632161749,
+                                    49.2000692484746
+                                ],
+                                [
+                                    -122.800777928961,
+                                    49.1967041262896
+                                ],
+                                [
+                                    -122.800777928961,
+                                    49.1936192298191
+                                ],
+                                [
+                                    -122.80092716217,
+                                    49.1887881758757
+                                ],
+                                [
+                                    -122.809242980612,
+                                    49.1889073802706
+                                ],
+                                [
+                                    -122.809280531538,
+                                    49.1886689711935
+                                ],
+                                [
+                                    -122.811898367537,
+                                    49.1886549470943
+                                ],
+                                [
+                                    -122.811989562643,
+                                    49.1869439771741
+                                ],
+                                [
+                                    -122.812150495184,
+                                    49.1831571940321
+                                ],
+                                [
+                                    -122.812236325873,
+                                    49.1780235364321
+                                ],
+                                [
+                                    -122.812289970053,
+                                    49.1703220515441
+                                ],
+                                [
+                                    -122.818362491263,
+                                    49.172594745474
+                                ],
+                                [
+                                    -122.823169009818,
+                                    49.1744324648873
+                                ],
+                                [
+                                    -122.832191960944,
+                                    49.1778972922418
+                                ],
+                                [
+                                    -122.838243024481,
+                                    49.1803940619909
+                                ],
+                                [
+                                    -122.839830892218,
+                                    49.1807306954669
+                                ],
+                                [
+                                    -122.841418759955,
+                                    49.1808148534781
+                                ],
+                                [
+                                    -122.843178289069,
+                                    49.1840969042898
+                                ],
+                                [
+                                    -122.845452802313,
+                                    49.1842371580217
+                                ],
+                                [
+                                    -122.845195310248,
+                                    49.1915858974103
+                                ],
+                                [
+                                    -122.83408023609,
+                                    49.1914456645083
+                                ],
+                                [
+                                    -122.834155337943,
+                                    49.1957366112863
+                                ],
+                                [
+                                    -122.834112422598,
+                                    49.1988073544862
+                                ],
+                                [
+                                    -122.834090964926,
+                                    49.2017517237086
+                                ],
+                                [
+                                    -122.834284083975,
+                                    49.2024947987141
+                                ],
+                                [
+                                    -122.829305904044,
+                                    49.2024527381628
+                                ],
+                                [
+                                    -122.823126094473,
+                                    49.2024527381628
+                                ],
+                                [
+                                    -122.821752803458,
+                                    49.203223842585
+                                ],
+                                [
+                                    -122.819478290213,
+                                    49.204948268962
+                                ],
+                                [
+                                    -122.818748729361,
+                                    49.2090137516571
+                                ],
+                                [
+                                    -122.81894184841,
+                                    49.2099109166051
+                                ],
+                                [
+                                    -122.818362491263,
+                                    49.2122518797253
+                                ],
+                                [
+                                    -122.816860454214,
+                                    49.2138077878991
+                                ],
+                                [
+                                    -122.817590015067,
+                                    49.2163728268856
+                                ],
+                                [
+                                    -122.817750947608,
+                                    49.2170876501
+                                ]
+                            ]
+                        ]
+                    ]
+                },
+                "rank_year_label": "2018-19",
+                "score_year_label": "2018-19",
+                "score_json_v2": [
+                    {
+                        "year": 2019,
+                        "rank_name": "Rank",
+                        "rank_value": "224/251",
+                        "score_name": "Score",
+                        "score_value": "1.97"
+                    },
+                    {
+                        "year": 2018,
+                        "rank_name": "Rank",
+                        "rank_value": "191/241",
+                        "score_name": "Score",
+                        "score_value": "2.87"
+                    },
+                    {
+                        "year": 2017,
+                        "rank_name": "Rank",
+                        "rank_value": "183/243",
+                        "score_name": "Score",
+                        "score_value": "3.22"
+                    },
+                    {
+                        "year": 2016,
+                        "rank_name": "Rank",
+                        "rank_value": "209/251",
+                        "score_name": "Score",
+                        "score_value": "2.51"
+                    },
+                    {
+                        "year": 2015,
+                        "rank_name": "Rank",
+                        "rank_value": "182/247",
+                        "score_name": "Score",
+                        "score_value": "3.37"
+                    }
+                ]
+            },
+            {
+                "distance": 1100,
+                "programs": [
+                    "English",
+                    "0-7"
+                ],
+                "id_school": 3657,
+                "display_score": 1,
+                "id": 3657,
+                "name": "Lena Shaw Elementary",
+                "board": "Surrey School District",
+                "address": "14250 100A Ave",
+                "phone": "604 581-1363",
+                "eqao_json": null,
+                "city": "Surrey",
+                "region": "British Columbia",
+                "web": "https://www.surreyschools.ca/schools/lenashaw",
+                "geo_latitude": 49.185106918388,
+                "geo_longitude": -122.8275523,
+                "school_type": "Elementary",
+                "board_type": "Public",
+                "score": 1.4,
+                "score_year": 2022,
+                "score_average": null,
+                "rank": 893,
+                "rank_total": 932,
+                "rank_year": 2022,
+                "score_json": {
+                    "rank_2015": 833,
+                    "rank_2016": 833,
+                    "rank_2017": 846,
+                    "rank_2018": 841,
+                    "rank_2019": 916,
+                    "rank_2020": 757,
+                    "rank_2021": 788,
+                    "rank_2022": 893,
+                    "rank_score_2015": 1.25,
+                    "rank_score_2016": 1.39,
+                    "rank_score_2017": 1.32,
+                    "rank_score_2018": 1.75,
+                    "rank_score_2019": 1.15,
+                    "rank_score_2020": 2.02,
+                    "rank_score_2021": 1.24,
+                    "rank_score_2022": 1.38,
+                    "rank_total_2015": 857,
+                    "rank_total_2016": 871,
+                    "rank_total_2017": 877,
+                    "rank_total_2018": 917,
+                    "rank_total_2019": 931,
+                    "rank_total_2020": 854,
+                    "rank_total_2021": 810,
+                    "rank_total_2022": 932,
+                    "average_exam_mark_2015": 432.83,
+                    "average_exam_mark_2016": 438.33,
+                    "average_exam_mark_2017": 431.83,
+                    "average_exam_mark_2018": 437.67,
+                    "average_exam_mark_2019": 417.83,
+                    "average_exam_mark_2020": 447.83,
+                    "average_exam_mark_2021": 423.67,
+                    "average_exam_mark_2022": 396.25
+                },
+                "geo_json": [
+                    [
+                        [
+                            49.1915860934859,
+                            -122.845426540875
+                        ],
+                        [
+                            49.1915019537927,
+                            -122.829977016949
+                        ],
+                        [
+                            49.1915580469374,
+                            -122.81560037663
+                        ],
+                        [
+                            49.1915019537927,
+                            -122.81252120068
+                        ],
+                        [
+                            49.1906465254559,
+                            -122.812328081631
+                        ],
+                        [
+                            49.1900855808118,
+                            -122.812027674222
+                        ],
+                        [
+                            49.1895246298075,
+                            -122.811984758878
+                        ],
+                        [
+                            49.1853313195876,
+                            -122.812070589566
+                        ],
+                        [
+                            49.1767472486986,
+                            -122.812285166287
+                        ],
+                        [
+                            49.1716690418811,
+                            -122.812349539304
+                        ],
+                        [
+                            49.1703222477039,
+                            -122.812285166288
+                        ],
+                        [
+                            49.1720618499479,
+                            -122.816941481137
+                        ],
+                        [
+                            49.1750218390693,
+                            -122.824516039395
+                        ],
+                        [
+                            49.1779956783248,
+                            -122.83226225903
+                        ],
+                        [
+                            49.1805345223368,
+                            -122.838849764371
+                        ],
+                        [
+                            49.1808851811627,
+                            -122.841403227353
+                        ],
+                        [
+                            49.1833256977671,
+                            -122.842926722073
+                        ],
+                        [
+                            49.1843355315018,
+                            -122.843205671811
+                        ],
+                        [
+                            49.1842513794776,
+                            -122.845608931088
+                        ],
+                        [
+                            49.1862008646249,
+                            -122.845480185056
+                        ],
+                        [
+                            49.1903239830627,
+                            -122.845415812039
+                        ],
+                        [
+                            49.1915860934859,
+                            -122.845426540875
+                        ]
+                    ]
+                ],
+                "geo_json_v2": {
+                    "type": "MultiPolygon",
+                    "coordinates": [
+                        [
+                            [
+                                [
+                                    -122.845426540875,
+                                    49.1915860934859
+                                ],
+                                [
+                                    -122.829977016949,
+                                    49.1915019537927
+                                ],
+                                [
+                                    -122.81560037663,
+                                    49.1915580469374
+                                ],
+                                [
+                                    -122.81252120068,
+                                    49.1915019537927
+                                ],
+                                [
+                                    -122.812328081631,
+                                    49.1906465254559
+                                ],
+                                [
+                                    -122.812027674222,
+                                    49.1900855808118
+                                ],
+                                [
+                                    -122.811984758878,
+                                    49.1895246298075
+                                ],
+                                [
+                                    -122.812070589566,
+                                    49.1853313195876
+                                ],
+                                [
+                                    -122.812285166287,
+                                    49.1767472486986
+                                ],
+                                [
+                                    -122.812349539304,
+                                    49.1716690418811
+                                ],
+                                [
+                                    -122.812285166288,
+                                    49.1703222477039
+                                ],
+                                [
+                                    -122.816941481137,
+                                    49.1720618499479
+                                ],
+                                [
+                                    -122.824516039395,
+                                    49.1750218390693
+                                ],
+                                [
+                                    -122.83226225903,
+                                    49.1779956783248
+                                ],
+                                [
+                                    -122.838849764371,
+                                    49.1805345223368
+                                ],
+                                [
+                                    -122.841403227353,
+                                    49.1808851811627
+                                ],
+                                [
+                                    -122.842926722073,
+                                    49.1833256977671
+                                ],
+                                [
+                                    -122.843205671811,
+                                    49.1843355315018
+                                ],
+                                [
+                                    -122.845608931088,
+                                    49.1842513794776
+                                ],
+                                [
+                                    -122.845480185056,
+                                    49.1862008646249
+                                ],
+                                [
+                                    -122.845415812039,
+                                    49.1903239830627
+                                ],
+                                [
+                                    -122.845426540875,
+                                    49.1915860934859
+                                ]
+                            ]
+                        ]
+                    ]
+                },
+                "rank_year_label": "2021-22",
+                "score_year_label": "2021-22",
+                "score_json_v2": [
+                    {
+                        "year": 2022,
+                        "rank_name": "Rank",
+                        "rank_value": "893/932",
+                        "score_name": "Score",
+                        "score_value": "1.38"
+                    },
+                    {
+                        "year": 2021,
+                        "rank_name": "Rank",
+                        "rank_value": "788/810",
+                        "score_name": "Score",
+                        "score_value": "1.24"
+                    },
+                    {
+                        "year": 2020,
+                        "rank_name": "Rank",
+                        "rank_value": "757/854",
+                        "score_name": "Score",
+                        "score_value": "2.02"
+                    },
+                    {
+                        "year": 2019,
+                        "rank_name": "Rank",
+                        "rank_value": "916/931",
+                        "score_name": "Score",
+                        "score_value": "1.15"
+                    },
+                    {
+                        "year": 2018,
+                        "rank_name": "Rank",
+                        "rank_value": "841/917",
+                        "score_name": "Score",
+                        "score_value": "1.75"
+                    },
+                    {
+                        "year": 2017,
+                        "rank_name": "Rank",
+                        "rank_value": "846/877",
+                        "score_name": "Score",
+                        "score_value": "1.32"
+                    },
+                    {
+                        "year": 2016,
+                        "rank_name": "Rank",
+                        "rank_value": "833/871",
+                        "score_name": "Score",
+                        "score_value": "1.39"
+                    },
+                    {
+                        "year": 2015,
+                        "rank_name": "Rank",
+                        "rank_value": "833/857",
+                        "score_name": "Score",
+                        "score_value": "1.25"
+                    }
+                ]
+            }
+        ],
+        "property_detail": {
+            "property": {
+                "name": "Property",
+                "value": [
+                    {
+                        "name": "Property Type",
+                        "value": "Apartment/Condo",
+                        "public": 1
+                    },
+                    {
+                        "name": "Style",
+                        "value": "Inside Unit",
+                        "public": 1
+                    },
+                    {
+                        "name": "Community",
+                        "value": "Whalley",
+                        "public": 1
+                    },
+                    {
+                        "name": "Municipality",
+                        "value": "Surrey",
+                        "public": 1
+                    },
+                    {
+                        "name": "Area",
+                        "value": "North Surrey",
+                        "public": 1
+                    },
+                    {
+                        "name": "Finished Floor (Main)",
+                        "value": "448",
+                        "public": 1
+                    },
+                    {
+                        "name": "Finished Floor (Above)",
+                        "value": "0",
+                        "public": 1
+                    },
+                    {
+                        "name": "Finished Floor (Below)",
+                        "value": "0",
+                        "public": 1
+                    },
+                    {
+                        "name": "Finished Floor (Basement)",
+                        "value": "0",
+                        "public": 1
+                    },
+                    {
+                        "name": "Finished Floor (Total)",
+                        "value": "448",
+                        "public": 1
+                    },
+                    {
+                        "name": "Unfinished Floor (Total)",
+                        "value": "0",
+                        "public": 1
+                    },
+                    {
+                        "name": "Grand Total",
+                        "value": "448",
+                        "public": 1
+                    }
+                ]
+            },
+            "building": {
+                "name": "Building",
+                "value": [
+                    {
+                        "name": "Size",
+                        "value": "448 feet²",
+                        "public": 1
+                    },
+                    {
+                        "name": "Maintenance",
+                        "value": "$294/month",
+                        "public": 1
+                    },
+                    {
+                        "name": "Maintenance Fee Includes",
+                        "value": "Caretaker, Garbage Pickup, Gardening, Gas, Hot Water, Management, Recreation Facility",
+                        "public": 1
+                    },
+                    {
+                        "name": "Age",
+                        "value": "7",
+                        "public": 1
+                    },
+                    {
+                        "name": "Approximate Year Built",
+                        "value": "2017",
+                        "public": 1
+                    },
+                    {
+                        "name": "Building Type",
+                        "value": "Apartment/Condo",
+                        "public": 1
+                    },
+                    {
+                        "name": "Services Connected",
+                        "value": "Community, Electricity, Natural Gas, Storm Sewer, Water",
+                        "public": 1
+                    },
+                    {
+                        "name": "Stories",
+                        "value": "48",
+                        "public": 1
+                    },
+                    {
+                        "name": "View",
+                        "value": "Yes",
+                        "public": 1
+                    },
+                    {
+                        "name": "View Description",
+                        "value": "CITY VIEW",
+                        "public": 1
+                    },
+                    {
+                        "name": "Amenities",
+                        "value": "Club House, Elevator, Exercise Centre, In Suite Laundry, Playground, Pool; Outdoor, Swirlpool/Hot Tub, Concierge",
+                        "public": 1
+                    },
+                    {
+                        "name": "Roof",
+                        "value": "Other",
+                        "public": 1
+                    },
+                    {
+                        "name": "Construction",
+                        "value": "Concrete",
+                        "public": 1
+                    },
+                    {
+                        "name": "Exterior",
+                        "value": "Mixed",
+                        "public": 1
+                    },
+                    {
+                        "name": "Foundation",
+                        "value": "Concrete Perimeter",
+                        "public": 1
+                    },
+                    {
+                        "name": "Floor Finish",
+                        "value": "Laminate",
+                        "public": 1
+                    },
+                    {
+                        "name": "Units in Development",
+                        "value": "462",
+                        "public": 1
+                    },
+                    {
+                        "name": "Units in Strata Plan",
+                        "value": "462",
+                        "public": 1
+                    }
+                ]
+            },
+            "inside": {
+                "name": "Inside",
+                "value": [
+                    {
+                        "name": "Rooms",
+                        "value": "4",
+                        "public": 1
+                    },
+                    {
+                        "name": "Kitchen",
+                        "value": "1",
+                        "public": 1
+                    },
+                    {
+                        "name": "Bedrooms",
+                        "value": "1",
+                        "public": 1
+                    },
+                    {
+                        "name": "Bathrooms",
+                        "value": "1",
+                        "public": 1
+                    },
+                    {
+                        "name": "Half Bathrooms",
+                        "value": "0",
+                        "public": 1
+                    },
+                    {
+                        "name": "Full Bathrooms",
+                        "value": "1",
+                        "public": 1
+                    },
+                    {
+                        "name": "Outdoor Area",
+                        "value": "Balcony(s)",
+                        "public": 1
+                    },
+                    {
+                        "name": "Locker",
+                        "value": "Yes",
+                        "public": 1
+                    },
+                    {
+                        "name": "Fireplace Total",
+                        "value": "0",
+                        "public": 1
+                    }
+                ]
+            },
+            "bathroom": {
+                "name": "Bathroom",
+                "value": [
+                    {
+                        "name": "Bathroom 1 Level",
+                        "value": "Main",
+                        "public": 1
+                    },
+                    {
+                        "name": "Bathroom 1 Desc",
+                        "value": "3 Pieces",
+                        "public": 1
+                    }
+                ]
+            },
+            "utilities": {
+                "name": "Utilities",
+                "value": [
+                    {
+                        "name": "Fuel/Heating",
+                        "value": "Baseboard",
+                        "public": 1
+                    },
+                    {
+                        "name": "Water",
+                        "value": "City/Municipal",
+                        "public": 1
+                    }
+                ]
+            },
+            "parking": {
+                "name": "Parking",
+                "value": [
+                    {
+                        "name": "Parking",
+                        "value": "Garage Underbuilding",
+                        "public": 1
+                    },
+                    {
+                        "name": "Parking Access",
+                        "value": "Lane",
+                        "public": 1
+                    },
+                    {
+                        "name": "Total Parking",
+                        "value": "1",
+                        "public": 1
+                    },
+                    {
+                        "name": "Covered Parking",
+                        "value": "1",
+                        "public": 1
+                    }
+                ]
+            },
+            "highlights": {
+                "name": "Highlights",
+                "value": [
+                    {
+                        "name": "Property Features",
+                        "value": "ClthWsh/Dryr/Frdg/Stve/DW, Garage Door Opener",
+                        "public": 1
+                    },
+                    {
+                        "name": "Site Influences",
+                        "value": "Central Location, Shopping Nearby",
+                        "public": 1
+                    }
+                ]
+            },
+            "land": {
+                "name": "Land",
+                "value": [
+                    {
+                        "name": "Land Title",
+                        "value": "Freehold Strata",
+                        "public": 1
+                    },
+                    {
+                        "name": "Parcel Number",
+                        "value": "030-218-586",
+                        "public": 1
+                    },
+                    {
+                        "name": "Zoning",
+                        "value": "CD",
+                        "public": 1
+                    }
+                ]
+            }
+        },
+        "listing_history": [
+            {
+                "id_listing": "XeEn7X4gQbv7rPo8",
+                "ml_num": "R2901443",
+                "seo_suffix": "13696-100-AVENUE-811-Surrey-V3T0L5-R2901443",
+                "price": "$449,000",
+                "price_note": null,
+                "price_sold": "$430,000",
+                "date_start": "2024-07-03",
+                "date_end": "2024-07-22",
+                "data_source": "REBGV",
+                "status": "Sold",
+                "public": 1,
+                "button": 0,
+                "show_contact_agent": false
+            },
+            {
+                "id_listing": "J6Em7bnzxMd7XBeq",
+                "ml_num": "R2506974",
+                "seo_suffix": "13696-100-AVENUE-811-Surrey-V3T0L5-R2506974",
+                "price": "$358,000",
+                "price_note": null,
+                "price_sold": "$344,500",
+                "date_start": "2020-10-07",
+                "date_end": "2020-10-31",
+                "data_source": "REBGV",
+                "status": "Sold",
+                "public": 1,
+                "button": 1,
+                "show_contact_agent": false
+            },
+            {
+                "id_listing": "DO1w3WqdGlVy8Jg0",
+                "ml_num": "R2209796",
+                "seo_suffix": "13696-100TH-AVENUE-811-Surrey-V3T0L5-R2209796",
+                "price": "$289,800",
+                "price_note": null,
+                "price_sold": "$330,000",
+                "date_start": "2017-10-02",
+                "date_end": "2017-10-09",
+                "data_source": "REBGV",
+                "status": "Sold",
+                "public": 1,
+                "button": 1,
+                "show_contact_agent": false
+            }
+        ],
+        "rooms": [
+            {
+                "size": "3 x 4",
+                "size_feet": "10 x 13",
+                "dc": null,
+                "type": "Living Room",
+                "lv": "Level: Main"
+            },
+            {
+                "size": "3.8 x 1.6",
+                "size_feet": "12.6 x 5.2",
+                "dc": null,
+                "type": "Kitchen",
+                "lv": "Level: Main"
+            },
+            {
+                "size": "2.6 x 2.3",
+                "size_feet": "8.4 x 7.5",
+                "dc": null,
+                "type": "Primary Bedroom",
+                "lv": "Level: Main"
+            },
+            {
+                "size": "1.2 x 2",
+                "size_feet": "4.1 x 6.7",
+                "dc": null,
+                "type": "Walk-In Closet",
+                "lv": "Level: Main"
+            }
+        ],
+        "rooms_public": 1,
+        "community_stats": {
+            "house_type": "C.",
+            "period": "2024-07-01",
+            "price_sold_median": 506000,
+            "price_sold_growth_yoy": 0.012,
+            "price_sold_growth_yoy_percentile": 49,
+            "sold_count": 50,
+            "sold_count_30": 50,
+            "dom_avg": 31,
+            "new_listing_count": 251,
+            "rent_180_ratio": 0.2,
+            "active_listing_count": 660,
+            "absorption_rate": 0.14,
+            "price_sold_growth_5y": 33,
+            "price_sold_growth_10y": 157,
+            "temperature_text": "Cold",
+            "period_name": "July 2024",
+            "growth_year": 1.2
+        },
+        "community_stats_all": {
+            "house_type": "all",
+            "period": "2024-07-01",
+            "price_sold_median": 525000,
+            "price_sold_growth_yoy": 0.018,
+            "price_sold_growth_yoy_percentile": 51,
+            "sold_count": 55,
+            "sold_count_30": 55,
+            "dom_avg": 32,
+            "new_listing_count": 288,
+            "rent_180_ratio": 0,
+            "active_listing_count": 796,
+            "absorption_rate": "0.12",
+            "price_sold_growth_5y": 35,
+            "price_sold_growth_10y": 129,
+            "period_name": "July 2024",
+            "growth_year": 1.8
+        },
+        "analytics": {
+            "estimate_price": "436,846",
+            "estimate_price_int": 436846,
+            "estimate_price_confident": 0.04,
+            "estimate_price_display_directly": 1,
+            "estimate_price_display": 1,
+            "estimate_price_display_top": 0,
+            "estimate_price_date": "2024-08-01",
+            "estimate_price_age": 1,
+            "price_diff": null,
+            "rent_base": "1507660",
+            "estimate_price_range": null,
+            "estimate_rent": "1,930",
+            "estimate_rent_int": 1930,
+            "estimate_rent_days": 31,
+            "estimate_rent_yearreturn": 3.62,
+            "school": {
+                "highschool_score": 2.8,
+                "belowhighschool_score": 1.4
+            },
+            "stars": {
+                "school": 1,
+                "growth": 2.5,
+                "rent": 3
+            },
+            "scores": {
+                "school": 2,
+                "growth": 5,
+                "rent": 6
+            }
+        },
+        "virtual_open_house": [],
+        "public_open_house": [],
+        "community_stats_public": 1,
+        "premium_stats_display": 0,
+        "premium_stats": null,
+        "deposit": null,
+        "province_abbr": "BC",
+        "meta": {
+            "title": "811 - 13696 100 AVENUE, Surrey, British Columbia V3T0L5 Sold History | HouseSigma",
+            "title_share": "811 - 13696 100 AVENUE, Surrey, British Columbia V3T0L5 Sold History | HouseSigma",
+            "description": "Discover the perfect starter home or investment opportunity at 811 - 13696 100 AVENUE, Surrey, British Columbia V3T0L5 with HouseSigma today.",
+            "image": "https://cache-w10.housesigma.com/file/pix-rebgv/262923070/794ff_1.jpg?619674a9",
+            "canonical_url": "https://housesigma.com/bc/surrey-real-estate/811-13696-100-avenue/home/jJKdOYrjbGnY54lW/"
+        },
+        "component_display": {
+            "my_note": 1,
+            "agent_touring_activities": 1,
+            "not_interested": 1,
+            "community_popularity_index": 1
+        },
+        "show_agent_recruit": 0,
+        "show_trustpilot": false,
+        "show_consumer_questionnaire": 0,
+        "banner_top": {
+            "src": "https://static.housesigma.com/images/banner/join_housesigma_v2_750_204.png",
+            "url": "https://team.housesigma.com/join-us/",
+            "inner": false
+        },
+        "banner_bottom": null,
+        "show_premium_unlock": 1,
+        "user_referral_code": "KNOB9B",
+        "premium_share_text": "Ravan Klar invites you to use HouseSigma to get 30 days free premium access. https://housesigma.com/?referrer=KNOB9B"
+    },
+    "error": {
+        "code": 0,
+        "message": ""
+    },
+    "debug": {
+        "API": "v5.37.1",
+        "environment": "production",
+        "server_group": "ovh_vpc",
+        "server": "OVH11"
+    }
+}
